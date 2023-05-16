@@ -1,0 +1,17 @@
+C:\Sem1-assignments\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.exe
+C:\Sem1-assignments\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.deps.json
+C:\Sem1-assignments\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.runtimeconfig.json
+C:\Sem1-assignments\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.dll
+C:\Sem1-assignments\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.pdb
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.AssemblyReference.cache
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.Form1.resources
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.GenerateResource.cache
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfoInputs.cache
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfo.cs
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.CoreCompileInputs.cache
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.dll
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\refint\Lottery.dll
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.pdb
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.genruntimeconfig.cache
+C:\Sem1-assignments\Lottery\Lottery\obj\Debug\net6.0-windows\ref\Lottery.dll
